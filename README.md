@@ -1,2 +1,3 @@
 # Web_Development
-Journey in learning web development as well as projects
+
+My personal journey in learning HTML, CSS, Javscript and as well as MERN Stack
